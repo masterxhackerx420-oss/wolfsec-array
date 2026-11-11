@@ -1,3 +1,5 @@
+![Armored timber wolf at the WolfSec Array desk](public/array-masthead.jpg)
+
 # WolfSec Array
 
 Live Desk: https://wolfsec-array-web-hunter.grok.me/
