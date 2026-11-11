@@ -155,9 +155,9 @@ export function HunterDesk() {
     <main className="min-h-screen bg-bg text-fg">
       <header className="relative overflow-hidden border-b border-line">
         <img
-          src="/masthead.jpg"
-          alt="WolfSec crew in a server room: armored wolf, masked figures, and a city skyline"
-          className="h-56 w-full object-cover object-center sm:h-80"
+          src="/array-masthead.jpg"
+          alt="Armored timber wolf at a curved array of phosphor monitors in a dark operations room"
+          className="h-56 w-full object-cover object-left sm:h-80"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-bg via-bg/75 to-bg/25" />
         <div className="absolute inset-x-0 bottom-0 mx-auto flex w-full max-w-6xl flex-col gap-2 px-4 pb-5 sm:px-6">
