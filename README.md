@@ -1,5 +1,7 @@
 # WolfSec Array
 
+Live Desk: https://wolfsec-array-web-hunter.grok.me/
+
 Public multi-engine web hunter. One query fans out across web, code, package, paper, news, archive, filing, and profile indexes, then comes back as titles, URLs, snippets, and mention marks.
 
 WolfSec Array is not a people-search broker. It does not rotate proxies, buy data, or treat a hit as proof.
